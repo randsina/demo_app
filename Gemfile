@@ -1,4 +1,6 @@
 source 'https://rubygems.org'
+ruby '2.1.5'
+# ruby-gemset=railstutorial_rails_4_0
 
 group :production do
   gem 'pg'
